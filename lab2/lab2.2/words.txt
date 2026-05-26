@@ -1,0 +1,5 @@
+^ABC*^A12^
+^HELLO*^WORLD123^
+^A*^B^
+ABC*^A12^
+^ABC*A12^

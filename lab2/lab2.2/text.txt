@@ -1,0 +1,1 @@
+^ABC*^A12^,$,^HELLO*^WORLD123^.$.^BAD*123^,^A*^B^
